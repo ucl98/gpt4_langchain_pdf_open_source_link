@@ -7,5 +7,6 @@ Take the files form this repo and place them in the correct places in the origin
 2. Ask a question and click on the source it provides.
   ![image](https://user-images.githubusercontent.com/132441647/236674722-8c5d8f2e-9cc4-4bbf-85a3-5ff08127a2c0.png)
   
-3. Scroll through yout pdf. It didn't work for me in "edge" but in "firefox". When the link you opend ends with "#page=", and its not working correctly, then it will likely be a browser issue. 
+3. Scroll through yout pdf.
+   - It didn't work for me in "edge" but in "firefox". When the link you opend ends with "#page=", and its not working correctly, then it will likely be a browser issue. 
   ![image](https://user-images.githubusercontent.com/132441647/236674782-446c15f8-feac-452d-930e-adca48cdb438.png)
